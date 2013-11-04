@@ -1,0 +1,12 @@
+tmux start-server
+tmux new-session -d -s "MyTmux"
+tmux new-window  -n "#1"
+tmux new-window  -n "#2"
+tmux new-window  -n "#3"
+tmux new-window  -n "#4"
+tmux new-window  -n "#5"
+tmux new-window  -n "#6"
+tmux new-window  -n "#7"
+tmux new-window  -n "#8"
+tmux new-window  -n "#9"
+tmux attach -t "MyTmux"
