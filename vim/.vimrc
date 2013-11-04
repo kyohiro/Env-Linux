@@ -1,0 +1,17 @@
+set number
+set wildmenu
+set cin
+set sta
+set backspace=2
+syntax enable
+set nocompatible
+filetype on
+set history=1000
+set autoindent
+set smartindent
+set tabstop=4
+set shiftwidth=4
+set showmatch
+set ruler
+set incsearch
+set enc=utf-8
